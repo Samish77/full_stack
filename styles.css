@@ -1,0 +1,82 @@
+
+
+dev{
+   background-color: red;
+   color: white;
+   font-size: 32px;
+   text-align: center;
+   font-weight: bold;
+
+}
+
+.odd{
+    background-color: palevioletred;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 40px;
+
+.adjust-font-size {
+        font-size: 24px;
+      }
+}
+#num2{
+    background-color: white;
+    color: blue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 40px;
+}
+
+
+#num4{
+    background-color:greenyellow;
+    color: blue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+
+.click{
+    background-color: black;
+    color: white;
+    
+}
+
+
+.unclick{
+    background-color: yellow;
+    color: black;
+    
+}
+
+.click,
+.unclick{
+    font-size: 26px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+*{
+padding: 0;
+margin: 0;
+font-size: 25px;
+box-sizing: border-box;
+}
+
+.box-one{
+background-color: red;
+border: 20px solid violet;
+height: 50px;
+width: 50px;
+padding: 30px;
+margin: 60px;
+}
+
+.box-two{
+background-color: blue;
+border: 20px solid  greenyellow;
+height: 50px;
+width: 50px;
+padding: 30px;
+margin: 60px;
+
+}
